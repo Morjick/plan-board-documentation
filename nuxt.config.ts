@@ -8,7 +8,7 @@ export default defineNuxtConfig({
   ssr: false,
   runtimeConfig: {
     public: {
-      baseURL: 'http://localhost:9456/'
+      baseURL: 'http://192.168.1.79:9456'
     }
   }
 })
